@@ -1,0 +1,1 @@
+Verify that the team member added an issue
