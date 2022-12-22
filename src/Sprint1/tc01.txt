@@ -1,0 +1,2 @@
+test case
+Verify that the user sets up this homework right
