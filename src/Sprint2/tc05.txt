@@ -1,1 +1,2 @@
 Verify that user can edit commit message
+
